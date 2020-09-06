@@ -1,8 +1,12 @@
+body {
+  background-color: cadetblue;
+}
+
 #top-banner {
   color : rgb(255,255,255);
     font-size: 30px;
 
-  background-color: rgba(30,30,30,0.7);
+  background-color: rgba(148, 3, 3, 0.7);
   overflow: auto;
   text-align: center;
 }
@@ -78,4 +82,7 @@
   margin-top: 40px;
 }
 
-
+.boutCode {
+  width: 40%;
+  margin: 0 20%;
+}
